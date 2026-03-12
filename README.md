@@ -17,7 +17,8 @@ Knowledge Roadmap Builder is a Python + Streamlit + agentic AI app that generate
 - **Python 3.11+**
 - **Streamlit** for the web UI
 - **Agentic AI stack** (e.g. Langgraph) to orchestrate roadmap generation
-- A hosted or local **LLM API** (Euron API key(OpenAI))
+- A hosted **LLM API** (Euron API key(OpenAI))
+- For google search **serpapi** and **wikiapi**
 - **Graph/visualization** library (`graphviz`)
 
 ## ✨ Core Features
